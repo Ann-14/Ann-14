@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hey 👋 I'm Anna!
 
-<!--
-**Ann-14/Ann-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```js
+🌏 const anna = {
+  code: [HTML, CSS, Javascript, TypeScript],
+  tools: [React, Redux, Git, Sass, Tailwind, Bootstrap, Postman],
+  databases: [Firebase],
+  other:{
+            previousStudies: [Translation & Interpreting],
+            previousJobs: [Medical Translator, Travel Agent, Chinese & English Teacher],
+            likes: [Gardening, Reading, Videogames, Sports, Mountain Biking]
+        },
+ learning: "Currently learning MongoDB"
+}
+````
 
-Here are some ideas to get you started:
+### 🚀 Some of my main projects:
+[photography-eshop](https://github.com/Ann-14/eshop_project) ||
+[unsplashApi-photogallery](https://github.com/Ann-14/eshop_project) || [StarWars-Web](https://github.com/Ann-14/UnsplashApp) || [BudgetCreatorApp](https://github.com/Ann-14/Sprint-07)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+📫 <a href="mailto:annavillar.uab@gmail.com">Email</a> || [Linkedin](https://www.linkedin.com/in/villar-anna/)
